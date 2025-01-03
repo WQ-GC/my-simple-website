@@ -1,0 +1,17 @@
+{
+  "name": "my-simple-website",
+  "version": "1.0.0",
+  "description": "A simple website project",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
